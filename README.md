@@ -1,5 +1,7 @@
 # Git commands cheat-sheet: the most useful git commands
 
+I can use these commands anytime to inspect the progress in my project.
+
 ## 1. Navigate to your git project folder.
 
 use 'cd' to move between folders.
