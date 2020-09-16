@@ -22,7 +22,7 @@ I can use these commands **anytime** to inspect my project.
     This means that we need to use `git add .` to prepare some changes to be committed.
 - `git log` 
     This command shows the commit logs.
-- `git diff`
+- `git diff
     Shows what changes have happened in our project since the last `git add .`.
     - Lines marked in **red** are lines that were removed.
     - Lines marked in **green** are lines that were added.
@@ -46,7 +46,7 @@ This command creates an empty Git repository. From now on, we can make changes t
     You can also *quick-commit* by running `git commit -am "Message here"`
 3. `git push`
     This command sends the committed changes to a server. It is used to upload local repository content to a remote repository. 
-## 5. git help
+## 5. git help:
 These are common Git commands used in various situations:
 
 start a working area (see also: git help tutorial)
