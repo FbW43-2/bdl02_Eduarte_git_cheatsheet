@@ -66,3 +66,6 @@ we are now ready to merge our changes back to the main branch (which is usually 
     
 3. Save our changes to the server:
     `git push`
+
+4. `git fetch`
+The git fetch command downloads commits, files, and refs from a remote repository into your local repo. Fetching is what you do when you want to see what everybody else has been working on.
