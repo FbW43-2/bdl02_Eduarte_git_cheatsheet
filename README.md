@@ -64,5 +64,5 @@ we are now ready to merge our changes back to the main branch (which is usually 
 2. Merge the changes from the source branch (the one where we committed our changes on) with:
     `git merge my-username/source-branch`
     
-Save our changes to the server
-3. `git push`
+3. Save our changes to the server:
+    `git push`
